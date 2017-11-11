@@ -18,7 +18,7 @@ setup(
     author='hs',
     author_email='hsim13372@gmail.com',
     license='MIT',
-    packages=find_packages(where='chemkin_grp11'),
-    package_dir={'': 'chemkin_grp11'},
+    packages=find_packages(where='src'),
+    package_dir={'': 'src'},
     zip_safe=False
     )
