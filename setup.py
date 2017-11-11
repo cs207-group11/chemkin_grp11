@@ -10,7 +10,7 @@ requirements = [r.strip() for r in requirements]
 
 setup(
     name='chemkin_grp11',
-    version='0.1',
+    version='0.1.1',
     description='Simple chemical kinetics code',
     long_description=long_description,
     install_requires=requirements,
